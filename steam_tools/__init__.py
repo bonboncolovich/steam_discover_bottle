@@ -1,1 +1,3 @@
-from steam_discover import steam_discover
+__all__ = ['steam_discover']
+
+from steam_tools.steam_discover import steam_discover

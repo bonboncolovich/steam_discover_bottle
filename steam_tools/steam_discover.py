@@ -3,7 +3,9 @@ import json
 import sys
 import binascii
 import struct
-import steammessages_remoteclient_discovery_pb2
+
+import steam_tools.steammessages_remoteclient_discovery_pb2
+
 
 class steam_discover:
 
